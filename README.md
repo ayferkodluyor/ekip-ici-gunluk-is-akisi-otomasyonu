@@ -16,7 +16,6 @@ Ekiplerin günlük iş takibinde karşılaştıkları tekrarlayan manuel işleml
 - Çalışan bazında kişiselleştirilmiş e-posta taslakları oluşturma
 - Outlook Web üzerinde alıcı, konu ve mesaj içeriğini hazır açma
 - Demo Modu ile test e-postalarını belirlenen adrese yönlendirme
-- Eksik sütun ve geçersiz e-posta kontrolleri
 
 ## 🛠️ Kullanılan Teknolojiler
 
