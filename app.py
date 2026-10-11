@@ -142,7 +142,7 @@ for i, taslak in enumerate(gosterilen):
         demo_modu = st.session_state.get("demo_modu", True)
 
         alicilar = (
-            ["aaayferata@outlook.com"]
+           [st.session_state.get("demo_adresi", "test@example.com")]
             if demo_modu
             else taslak["alicilar"]
         )
@@ -163,7 +163,12 @@ demo_modu = st.toggle(
     key="demo_modu"
 )
 
-demo_adresi = "aaayferata@outlook.com"
+demo_adresi = st.text_input(
+    "Test e-posta adresi",
+    value="",
+    placeholder="ornek@outlook.com",
+    key="demo_adresi"
+)
 
 if demo_modu:
     st.info(
