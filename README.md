@@ -38,6 +38,17 @@ Ekiplerin günlük iş takibinde karşılaştıkları tekrarlayan manuel işleml
 
 Not: Uygulama e-postaları otomatik göndermez. Gönderim Outlook üzerinden kullanıcı onayıyla gerçekleştirilir.
 
+## 📸 Uygulama Ekran Görüntüleri
+
+### Streamlit Ana Ekranı
+![Streamlit Ana Ekranı](Streamlit%20ana%20ekran%C4%B1.jpg)
+
+### Outlook İzinli Listesi
+![Outlook İzinli Listesi](Outlook%20izinli%20listesi.jpg)
+
+### Outlook Kişiye Özel Görev E-Postası
+![Outlook Kişiye Özel Görev E-Postası](Outlook%20ki%C5%9Fiye%20%C3%B6zel%20g%C3%B6rev%20e-postas%C4%B1.jpg)
+
 ## 🎥 Proje Videosu
 
 https://www.youtube.com/watch?v=h8129KMyrYM
