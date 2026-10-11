@@ -37,41 +37,7 @@ Ekiplerin günlük iş takibinde karşılaştıkları tekrarlayan manuel işleml
 5. Seçilen kategoriye göre e-posta taslakları hazırlanır.
 6. Kullanıcı taslağı Outlook'ta açar, kontrol eder ve isterse gönderir.
 
-**Not:** Uygulama e-postaları otomatik göndermez. Gönderim Outlook üzerinden kullanıcı onayıyla gerçekleştirilir.
-
-## 📂 Excel Dosyası Formatı
-
-Excel dosyasında `Ekip Takip` isimli bir çalışma sayfası ve aşağıdaki sütunlar bulunmalıdır:
-
-- Çalışan
-- E-posta
-- İzin Durumu
-- İş / Görev
-- Son Tarih
-- Durum
-- Öncelik
-
-## 💻 Kurulum
-
-Python yüklü bir ortamda:
-
-```bash
-pip install streamlit pandas openpyxl
-```
-
-Uygulamayı başlatmak için:
-
-```bash
-streamlit run app.py
-```
-
-Ardından tarayıcıda `http://localhost:8501` adresini açın.
-
-## 🔒 Veri Güvenliği ve Demo Modu
-
-Bu proje eğitim ve portföy amacıyla geliştirilmiştir. Testlerde gerçek çalışan veya müşteri bilgileri yerine örnek veriler kullanılmalıdır.
-
-Demo Modu, e-posta taslaklarının test amacıyla belirlenen bir adrese yönlendirilmesini sağlar.
+Not: Uygulama e-postaları otomatik göndermez. Gönderim Outlook üzerinden kullanıcı onayıyla gerçekleştirilir.
 
 ## 🎥 Proje Videosu
 
